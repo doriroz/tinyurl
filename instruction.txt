@@ -1,0 +1,11 @@
+enter long url into input field
+
+create shorten url
+{
+add => insert url into URL DB
+firebase DB . DB include json string with id and url name
+
+get => get url id from URL DB
+
+dusplay url on screen
+}
