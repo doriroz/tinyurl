@@ -6,6 +6,23 @@ add => insert url into URL DB
 firebase DB . DB include json string with id and url name
 
 get => get url id from URL DB
+link to:
+https://stackoverflow.com/questions/37094631/get-the-pushed-id-for-specific-value-in-firebase-android
 
-dusplay url on screen
+display url on screen
 }
+
+display list of all url
+display all
+{
+get all list of url from url DB
+
+
+}
+
+convert google short url back to original
+link to
+https://stackoverflow.com/questions/28763413/how-to-convert-google-short-urls-back-to-its-original-url
+
+tinyurl
+https://tinyurl.com/app/

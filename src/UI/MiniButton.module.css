@@ -1,0 +1,48 @@
+.miniButton{
+    display: grid;
+    grid-template-columns: 40px 100px 100px 100px;
+    margin-left: 25vw;
+}
+
+.miniButton button{ 
+    background-color: rgb(185, 223, 246);
+    color: rgb(66, 25, 245);
+    border:none;
+    border-radius: 12px;
+    padding: 5px 25px;
+    /* font-size: 30px;
+    height: 30px; */
+    margin: 0 5px;
+}
+
+.miniButtonImg{ 
+    height: 30px;
+    font-size: 25px;
+    padding-top: 10px;
+    /* background-color: antiquewhite; */
+}
+
+.miniButton button:hover{
+    animation: miniHover 1s linear;
+}
+
+@keyframes miniHover {
+    0%{
+        transform: translateY(-1px);
+    }
+    20%{
+        transform: translateY(-2px);
+    }
+    40%{
+        transform: translateY(-3px);
+    }
+    60%{
+        transform: translateY(-4px);
+    }
+    80%{
+        transform: translateY(-5px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,18 @@
+.menu{
+    display: flex;
+    color: aliceblue;
+    font-family: Montserrat,sans-serif;
+    font-size: 24px;
+    background-color: cadetblue;
+    /* 007bff */
+}
+
+.val{
+    padding: 10px;
+    margin: 0 20PX;
+    cursor: pointer;
+}
+
+.val:hover{
+    background-color: rgb(100, 134, 134);
+}

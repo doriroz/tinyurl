@@ -1,0 +1,10 @@
+.urlBox{
+    width: 30vw;
+    background-color: aliceblue;
+    border-radius: 20px;
+    color: aliceblue;
+    padding: 20px;
+    /* margin-top: 20px; */
+    margin: 20px 0 0 20px;
+    max-height: 45vh;
+}
